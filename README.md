@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuzdalfaZulfiqar
+- 👋 Hi, I’m MuzdalfaZulfiqar
 - 👀 I’m interested in web development and software documentation
 - 🌱 I’m currently learning React.js and mongoDB
 - 📫 How to reach me muzdalfazulfiqar11@gmail.com
