@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MuzdalfaZulfiqar
 - 👀 I’m interested in web development and software documentation
-- 🌱 I’m currently learning React.js and mongoDB
+- 🌱 I’m currently learning and exploring MERN Stack
 - 📫 How to reach me muzdalfazulfiqar11@gmail.com
 - 😄 Pronouns: she/her
 -  I am looking to colloborate on open-source projects
