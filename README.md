@@ -1,8 +1,7 @@
 ![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/5b42a240-89a0-425a-9770-ed740fa6389e)
 ---
 
-<h1 align="center">Hi 👋, I'm muzdalfa zulfiqar</h1>
-<h3 align="center">A passionate future software engineer from Pakistan</h3>
+
 
 - 🔭 I’m currently working on **Blog Mania**
 
