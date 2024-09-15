@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzdalfazulfiqar&show_icons=true&locale=en&layout=compact" alt="muzdalfazulfiqar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzdalfazulfiqar&show_icons=true&locale=en&layout=compact" alt="muzdalfazulfiqar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzdalfazulfiqar&" alt="muzdalfazulfiqar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzdalfazulfiqar&" alt="muzdalfazulfiqar" /></p>
 
