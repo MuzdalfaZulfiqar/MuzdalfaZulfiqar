@@ -2,9 +2,6 @@
 ---
 
 
-<h2 align="center">Hi 👋, I'm Muzdalfa Zulfiqar</h2>
-<h3 align="center">A passionate future software engineer from Pakistan</h3>
-
 - 🔭 I’m currently working on MERN Stack and making a project BlogMania
 - 🌱 I’m interested in Web development especially MERN Stack
 - 👯 I have completed some projects in MERN including NoteBox and RecipeMaster
