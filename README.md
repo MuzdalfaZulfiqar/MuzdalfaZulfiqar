@@ -2,8 +2,7 @@
 ---
 
 
-- 🔭 I’m currently working on MERN Stack and making a project BlogMania
-- 🌱 I’m interested in Web development especially MERN Stack
+- 🔭 I’m currently learning MERN Stack
 - 👯 I have completed some projects in MERN including NoteBox and RecipeMaster
 - 💬 Ask me about anything about MERN Stack development
 - 📫 How to reach me: muzdalfazulfiqar11@gmail.com
