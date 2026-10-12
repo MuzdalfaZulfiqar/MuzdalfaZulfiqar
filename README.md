@@ -30,36 +30,6 @@
 - 🌱 I'm continuously strengthening my software engineering fundamentals and exploring better ways to build reliable products.
 - 📚 Outside of tech, I enjoy reading Urdu novels and sharing recommendations.
 
-### Featured Projects
-
-**DevSta — Developer Networking & Recruitment Platform**
-
-A platform connecting developers, tech professionals, and recruiters, with features for networking, recruitment, coding assessments, and AI-assisted development.
-
-`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
-
-[Live Demo](https://devsta.vercel.app/)
-
-**AskSunnah — Islamic Knowledge Platform**
-
-A web platform for accessing Islamic knowledge, with content management, category-based browsing, and subscription functionality.
-
-`React` `Next.js` `Node.js` `MongoDB` `Stripe`
-
-[Visit Website](https://asksunnah.com/)
-
-**HumQalam — Urdu Blogging Platform**
-
-A blogging project focused on Urdu writing, author profiles, and community-driven content.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
-
-**DocWise — Document Assistant · In Progress**
-
-An AI-powered document assistant designed to help users ask questions about long documents and receive source-grounded answers with citations.
-
-`Python` `FastAPI` `Next.js` `RAG`
-
 ### Tech Stack
 
 **Frontend**
