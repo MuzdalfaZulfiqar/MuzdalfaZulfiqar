@@ -1,12 +1,11 @@
 ![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/5b42a240-89a0-425a-9770-ed740fa6389e)
 ---
-
-
-- 🔭 I’m currently learning MERN Stack
-- 👯 I have completed some projects in MERN including NoteBox and RecipeMaster
-- 💬 Ask me about anything about MERN Stack development
-- 📫 How to reach me: muzdalfazulfiqar11@gmail.com
-- ⚡ Fun fact: I read novels and would love to give recommendations about Urdu novels
+- 🔭 I’m continuously learning and improving my full-stack development skills.
+- 💻 I build applications using React, Next.js, Node.js, Express.js, and MongoDB.
+- 🤖 I’m exploring AI development, including RAG, and workflow automation using n8n.
+- 🚀 I enjoy building practical projects that solve real-world problems.
+- 📫 Reach me at: muzdalfazulfiqar11@gmail.com
+- 📚 Fun fact: I love reading Urdu novels and sharing recommendations!
 <br>
 
 # 💻 Tech Stack:
