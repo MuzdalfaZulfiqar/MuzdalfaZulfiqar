@@ -1,4 +1,4 @@
-![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/5b42a240-89a0-425a-9770-ed740fa6389e)
+![Beige Simple Elegant Personal LinkedIn Banner](https://i.pinimg.com/1200x/82/84/7a/82847a22a2f7c680ac55348568306281.jpg)
 
 <h2 align="center">Hi, I'm Muzdalfa Zulfiqar</h2>
 
